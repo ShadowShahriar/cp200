@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 3 days (**from 12 Apr 2025 to 14 Apr 2025**)
 
-**Problems Solved:** 7 (C: **1**, C++: **6**)
+**Problems Solved:** 8 (C: **1**, C++: **7**)
 
 **Contests Joined:** 0
 
