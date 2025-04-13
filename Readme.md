@@ -6,9 +6,9 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 2 days (**from 12 Apr 2025 to 13 Apr 2025**)
+**Duration:** 3 days (**from 12 Apr 2025 to 14 Apr 2025**)
 
-**Problems Solved:** 5 (C: **1**, C++: **4**)
+**Problems Solved:** 6 (C: **1**, C++: **5**)
 
 **Contests Joined:** 0
 
@@ -19,6 +19,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | Unofficial | [**A**][ECFR-177-A] | **Hard**   | -       |
 | 🐣  | [Educational CF Round **1**][ECFR-1]                            | Unofficial | [**A**][ECFR-1-A]   | **Hard**   | -       |
 | 🐣  | [Educational CF Round **2**][ECFR-2]                            | Unofficial | [**B**][ECFR-2-B]   | **Hard**   | -       |
+| 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | Unofficial | [**A**][CFR-1017-A] | **Mid**    | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -26,12 +27,14 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [ECFR-177]: https://codeforces.com/contest/2086
 [ECFR-1]: https://codeforces.com/contest/598
 [ECFR-2]: https://codeforces.com/contest/600
+[CFR-1017]: https://codeforces.com/contest/2094
 
 <!-- problem links -->
 
 [ECFR-177-A]: https://codeforces.com/contest/2086/problem/A
 [ECFR-1-A]: https://codeforces.com/contest/598/problem/A
 [ECFR-2-B]: https://codeforces.com/contest/600/problem/B
+[CFR-1017-A]: https://codeforces.com/contest/2094/problem/A
 
 **NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][LICENSE] for more details.
 
