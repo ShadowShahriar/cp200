@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 3 days (**from 12 Apr 2025 to 14 Apr 2025**)
 
-**Problems Solved:** 8 (C: **1**, C++: **7**)
+**Problems Solved:** 9 (C: **1**, C++: **8**)
 
 **Contests Joined:** 0
 
@@ -22,6 +22,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | Unofficial | [**A**][CFR-1017-A] | **Mid**    | -       |
 | 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | Unofficial | [**A**][CFR-952-A]  | **Mid**    | -       |
 | 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial | [**A**][ECFR-166-A] | **Mid**    | -       |
+| 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial | [**A**][CFR-1003-A] | **Mid**    | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -32,6 +33,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [ECFR-2]: https://codeforces.com/contest/600
 [CFR-1017]: https://codeforces.com/contest/2094
 [CFR-952]: https://codeforces.com/contest/1985
+[CFR-1003]: https://codeforces.com/contest/2065
 
 <!-- problem links -->
 
@@ -41,6 +43,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [ECFR-2-B]: https://codeforces.com/contest/600/problem/B
 [CFR-1017-A]: https://codeforces.com/contest/2094/problem/A
 [CFR-952-A]: https://codeforces.com/contest/1985/problem/A
+[CFR-1003-A]: https://codeforces.com/contest/2065/problem/A
 
 **NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][LICENSE] for more details.
 
