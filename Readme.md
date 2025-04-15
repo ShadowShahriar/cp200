@@ -6,9 +6,9 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 3 days (**from 12 Apr 2025 to 14 Apr 2025**)
+**Duration:** 4 days (**from 12 Apr 2025 to 15 Apr 2025**)
 
-**Problems Solved:** 9 (C: **1**, C++: **8**)
+**Problems Solved:** 10 (C: **1**, C++: **9**)
 
 **Contests Joined:** 0
 
@@ -23,6 +23,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | Unofficial | [**A**][CFR-952-A]  | **Mid**    | -       |
 | 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial | [**A**][ECFR-166-A] | **Mid**    | -       |
 | 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial | [**A**][CFR-1003-A] | **Mid**    | -       |
+| 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial | [**A**][ECFR-3-A]   | **Mid**    | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -31,6 +32,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [ECFR-177]: https://codeforces.com/contest/2086
 [ECFR-1]: https://codeforces.com/contest/598
 [ECFR-2]: https://codeforces.com/contest/600
+[ECFR-3]: https://codeforces.com/contest/609
 [CFR-1017]: https://codeforces.com/contest/2094
 [CFR-952]: https://codeforces.com/contest/1985
 [CFR-1003]: https://codeforces.com/contest/2065
@@ -41,6 +43,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [ECFR-177-A]: https://codeforces.com/contest/2086/problem/A
 [ECFR-1-A]: https://codeforces.com/contest/598/problem/A
 [ECFR-2-B]: https://codeforces.com/contest/600/problem/B
+[ECFR-3-A]: https://codeforces.com/contest/609/problem/A
 [CFR-1017-A]: https://codeforces.com/contest/2094/problem/A
 [CFR-952-A]: https://codeforces.com/contest/1985/problem/A
 [CFR-1003-A]: https://codeforces.com/contest/2065/problem/A
