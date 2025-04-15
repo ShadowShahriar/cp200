@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 4 days (**from 12 Apr 2025 to 15 Apr 2025**)
 
-**Problems Solved:** 10 (C: **1**, C++: **9**)
+**Problems Solved:** 15 (C: **1**, C++: **14**)
 
 **Contests Joined:** 0
 
@@ -24,6 +24,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial | [**A**][ECFR-166-A] | **Mid**    | -       |
 | 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial | [**A**][CFR-1003-A] | **Mid**    | -       |
 | 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial | [**A**][ECFR-3-A]   | **Mid**    | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial | **A-E**             | **Easy**   | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -36,6 +37,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1017]: https://codeforces.com/contest/2094
 [CFR-952]: https://codeforces.com/contest/1985
 [CFR-1003]: https://codeforces.com/contest/2065
+[AUT-S5]: https://codeforces.com/group/MWSDmqGsZm/contest/223205
 
 <!-- problem links -->
 
@@ -47,6 +49,11 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1017-A]: https://codeforces.com/contest/2094/problem/A
 [CFR-952-A]: https://codeforces.com/contest/1985/problem/A
 [CFR-1003-A]: https://codeforces.com/contest/2065/problem/A
+[AUT-S5-A]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A
+[AUT-S5-B]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B
+[AUT-S5-C]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C
+[AUT-S5-D]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D
+[AUT-S5-E]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E
 
 **NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][LICENSE] for more details.
 
