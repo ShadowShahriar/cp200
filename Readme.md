@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 9 days (**from 12 Apr 2025 to 20 Apr 2025**)
 
-**Problems Solved:** 22 (C: **1**, C++: **21**)
+**Problems Solved:** 26 (C: **1**, C++: **25**)
 
 **Contests Joined:** 0
 
@@ -25,6 +25,8 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial | [**A**][CFR-1003-A] | **Mid**    | -       |
 | 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial | [**A**][ECFR-3-A]   | **Mid**    | -       |
 | 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial | **A-H**, **J-M**    | **Easy**   | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | Unofficial | **A-B**             | **Easy**   | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial | **A-B**             | **Easy**   | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -38,6 +40,8 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-952]: https://codeforces.com/contest/1985
 [CFR-1003]: https://codeforces.com/contest/2065
 [AUT-S5]: https://codeforces.com/group/MWSDmqGsZm/contest/223205
+[AUT-S1]: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+[AUT-C2]: https://codeforces.com/group/MWSDmqGsZm/contest/326907
 
 <!-- problem links -->
 
