@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 11 days (**from 12 Apr 2025 to 22 Apr 2025**)
 
-**Problems Solved:** 27 (C: **1**, C++: **26**)
+**Problems Solved:** 28 (C: **1**, C++: **27**)
 
 **Contests Joined:** 0
 
@@ -26,7 +26,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial | [**A**][ECFR-3-A]   | **Mid**    | -       |
 | 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial | **A-H**, **J-M**    | **Easy**   | -       |
 | 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | Unofficial | **A-B**             | **Easy**   | -       |
-| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial | **A-C**             | **Easy**   | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial | **A-D**             | **Easy**   | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
