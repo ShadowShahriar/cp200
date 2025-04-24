@@ -10,7 +10,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Problems Solved:** 57 (C: **24**, C++: **33**)
 
-**Contests Joined:** 0
+**Contests Joined:** 1
 
 **Contest Information:**
 
