@@ -8,25 +8,26 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 13 days (**from 12 Apr 2025 to 24 Apr 2025**)
 
-**Problems Solved:** 55 (C: **24**, C++: **31**)
+**Problems Solved:** 57 (C: **24**, C++: **33**)
 
 **Contests Joined:** 0
 
 **Contest Information:**
 
-|     | Contest                                                         | Role       | Solved              | Difficulty | Ranking |
-| :-: | :-------------------------------------------------------------- | :--------- | :------------------ | :--------- | :------ |
-| 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | Unofficial | [**A**][ECFR-177-A] | **Hard**   | -       |
-| 🐣  | [Educational CF Round **1**][ECFR-1]                            | Unofficial | [**A**][ECFR-1-A]   | **Hard**   | -       |
-| 🐣  | [Educational CF Round **2**][ECFR-2]                            | Unofficial | [**B**][ECFR-2-B]   | **Hard**   | -       |
-| 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | Unofficial | [**A**][CFR-1017-A] | **Mid**    | -       |
-| 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | Unofficial | [**A**][CFR-952-A]  | **Mid**    | -       |
-| 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial | [**A**][ECFR-166-A] | **Mid**    | -       |
-| 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial | [**A**][CFR-1003-A] | **Mid**    | -       |
-| 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial | [**A**][ECFR-3-A]   | **Mid**    | -       |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial | **A-H**, **J-M**    | **Easy**   | -       |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | Unofficial | **A-Z**             | **Easy**   | -       |
-| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial | **A-F**             | **Easy**   | -       |
+|     | Contest                                                         | Role               | Solved              | Difficulty | Ranking |
+| :-: | :-------------------------------------------------------------- | :----------------- | :------------------ | :--------- | :------ |
+| 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | Unofficial         | [**A**][ECFR-177-A] | **Hard**   | -       |
+| 🐣  | [Educational CF Round **1**][ECFR-1]                            | Unofficial         | [**A**][ECFR-1-A]   | **Hard**   | -       |
+| 🐣  | [Educational CF Round **2**][ECFR-2]                            | Unofficial         | [**B**][ECFR-2-B]   | **Hard**   | -       |
+| 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | Unofficial         | [**A**][CFR-1017-A] | **Mid**    | -       |
+| 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | Unofficial         | [**A**][CFR-952-A]  | **Mid**    | -       |
+| 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial         | [**A**][ECFR-166-A] | **Mid**    | -       |
+| 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial         | [**A**][CFR-1003-A] | **Mid**    | -       |
+| 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial         | [**A**][ECFR-3-A]   | **Mid**    | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial         | **A-H**, **J-M**    | **Easy**   | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | Unofficial         | **A-Z**             | **Easy**   | -       |
+| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial         | **A-F**             | **Easy**   | -       |
+| 🐔  | [CF Round **1020** (**Div. 3**)][CFR-1020]                      | Contestant&nbsp;⭐ | **A-B**             | **Mid**    | -       |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -42,6 +43,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [AUT-S5]: https://codeforces.com/group/MWSDmqGsZm/contest/223205
 [AUT-S1]: https://codeforces.com/group/MWSDmqGsZm/contest/219158
 [AUT-C2]: https://codeforces.com/group/MWSDmqGsZm/contest/326907
+[CFR-1020]: https://codeforces.com/contest/2106
 
 <!-- problem links -->
 
