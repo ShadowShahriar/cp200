@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 14 days (**from 12 Apr 2025 to 25 Apr 2025**)
 
-**Problems Solved:** 60 (C: **24**, C++: **36**)
+**Problems Solved:** 62 (C: **24**, C++: **38**)
 
 **Contests Joined:** 1
 
@@ -24,7 +24,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | Unofficial         | [**A**][ECFR-166-A] | **Mid**    | -        |
 | 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | Unofficial         | [**A**][CFR-1003-A] | **Mid**    | -        |
 | 🐣  | [Educational CF Round **3**][ECFR-3]                            | Unofficial         | [**A**][ECFR-3-A]   | **Mid**    | -        |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial         | **A-H**, **J-M**    | **Easy**   | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | Unofficial         | **A-N**             | **Easy**   | -        |
 | 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | Unofficial         | **A-Z**             | **Easy**   | -        |
 | 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | Unofficial         | **A-F**             | **Easy**   | -        |
 | 🐔  | [CF Round **1020** (**Div. 3**)][CFR-1020]                      | Contestant&nbsp;⭐ | **A-B**             | **Mid**    | **+385** |
