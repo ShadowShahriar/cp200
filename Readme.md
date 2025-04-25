@@ -6,7 +6,7 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 14 days (**from 12 Apr 2025 to 25 Apr 2025**)
+**Duration:** 15 days (**from 12 Apr 2025 to 26 Apr 2025**)
 
 **Problems Solved:** 62 (C: **24**, C++: **38**)
 
@@ -14,7 +14,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Contest Information:**
 
-|     | Contest                                                         | Role               | Solved              | Difficulty | Ranking  |
+|     | Contest                                                         | Role               | Solved              | Difficulty | Rating   |
 | :-: | :-------------------------------------------------------------- | :----------------- | :------------------ | :--------- | :------- |
 | 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | Unofficial         | [**A**][ECFR-177-A] | **Hard**   | -        |
 | 🐣  | [Educational CF Round **1**][ECFR-1]                            | Unofficial         | [**A**][ECFR-1-A]   | **Hard**   | -        |
