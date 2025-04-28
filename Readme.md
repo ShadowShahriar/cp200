@@ -8,37 +8,39 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 17 days (**from 12 Apr 2025 to 28 Apr 2025**)
 
-**Problems Solved:** 66 (C: **24**, C++: **42**)
+**Problems Solved:** 69 (C: **24**, C++: **45**)
 
-**Contests Joined:** 2
+**Contests Joined:** 3
 
 **Contest Rating (Ego):** **650** (max. newbie, **650**)
 
 **Contest Information:**
 
-|     | Contest                                                         | Role               | Solved              | Difficulty | Rating   |
-| :-: | :-------------------------------------------------------------- | :----------------- | :------------------ | :--------- | :------- |
-| 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | -                  | [**A**][ECFR-177-A] | **Hard**   | -        |
-| 🐣  | [Educational CF Round **1**][ECFR-1]                            | -                  | [**A**][ECFR-1-A]   | **Hard**   | -        |
-| 🐣  | [Educational CF Round **2**][ECFR-2]                            | -                  | [**B**][ECFR-2-B]   | **Hard**   | -        |
-| 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | -                  | [**A**][CFR-1017-A] | **Mid**    | -        |
-| 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | -                  | [**A**][CFR-952-A]  | **Mid**    | -        |
-| 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | -                  | [**A**][ECFR-166-A] | **Mid**    | -        |
-| 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | -                  | [**A**][CFR-1003-A] | **Mid**    | -        |
-| 🐣  | [Educational CF Round **3**][ECFR-3]                            | -                  | [**A**][ECFR-3-A]   | **Mid**    | -        |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | -                  | **A-N**             | **Easy**   | -        |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | -                  | **A-Z**             | **Easy**   | -        |
-| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | -                  | **A-F**             | **Easy**   | -        |
-| 🐔  | [CF Round **1020** (**Div. 3**)][CFR-1020]                      | Contestant&nbsp;⭐ | **A-B**             | **Mid**    | **+385** |
-| 🐣  | [Educational CF Round **4**][ECFR-4]                            | -                  | [**A**][ECFR-4-A]   | **Mid**    | -        |
-| 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A] | **Hard**   | **+265** |
-| 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]  | **Hard**   | -        |
+|     | Contest                                                         | Role               | Solved                            | Difficulty | Rating   |
+| :-: | :-------------------------------------------------------------- | :----------------- | :-------------------------------- | :--------- | :------- |
+| 🐣  | [Educational CF Round **177** (Rated for **Div. 2**)][ECFR-177] | -                  | [**A**][ECFR-177-A]               | **Hard**   | -        |
+| 🐣  | [Educational CF Round **1**][ECFR-1]                            | -                  | [**A**][ECFR-1-A]                 | **Hard**   | -        |
+| 🐣  | [Educational CF Round **2**][ECFR-2]                            | -                  | [**B**][ECFR-2-B]                 | **Hard**   | -        |
+| 🐥  | [CF Round **1017** (**Div. 4**)][CFR-1017]                      | -                  | [**A**][CFR-1017-A]               | **Mid**    | -        |
+| 🐥  | [CF Round **952** (**Div. 4**)][CFR-952]                        | -                  | [**A**][CFR-952-A]                | **Mid**    | -        |
+| 🐣  | [Educational CF Round **166** (Rated for **Div. 2**)][ECFR-166] | -                  | [**A**][ECFR-166-A]               | **Mid**    | -        |
+| 🐥  | [CF Round **1003** (**Div. 4**)][CFR-1003]                      | -                  | [**A**][CFR-1003-A]               | **Mid**    | -        |
+| 🐣  | [Educational CF Round **3**][ECFR-3]                            | -                  | [**A**][ECFR-3-A]                 | **Mid**    | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 5**)][AUT-S5]    | -                  | **A-N**                           | **Easy**   | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 1**)][AUT-S1]    | -                  | **A-Z**                           | **Easy**   | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | -                  | **A-F**                           | **Easy**   | -        |
+| 🐔  | [CF Round **1020** (**Div. 3**)][CFR-1020]                      | Contestant&nbsp;⭐ | **A-B**                           | **Mid**    | **+385** |
+| 🐣  | [Educational CF Round **4**][ECFR-4]                            | -                  | [**A**][ECFR-4-A]                 | **Mid**    | -        |
+| 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A]               | **Hard**   | **+265** |
+| 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]                | **Hard**   | -        |
+| 🐔  | [Educational CF Round **178** (**Div. 2**)][ECFR-178]           | Contestant&nbsp;⭐ | [**A**][ECFR-178-A], **B**, **F** | **Hard**   | -        |
 
 <!-- ||||||| -->
 <!-- contest links -->
 
 [ECFR-166]: https://codeforces.com/contest/1976
 [ECFR-177]: https://codeforces.com/contest/2086
+[ECFR-178]: https://codeforces.com/contest/2104
 [ECFR-1]: https://codeforces.com/contest/598
 [ECFR-2]: https://codeforces.com/contest/600
 [ECFR-3]: https://codeforces.com/contest/609
@@ -57,6 +59,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 [ECFR-166-A]: https://codeforces.com/contest/1976/problem/A
 [ECFR-177-A]: https://codeforces.com/contest/2086/problem/A
+[ECFR-178-A]: https://codeforces.com/contest/2104/problem/A
 [ECFR-1-A]: https://codeforces.com/contest/598/problem/A
 [ECFR-2-B]: https://codeforces.com/contest/600/problem/B
 [ECFR-3-A]: https://codeforces.com/contest/609/problem/A
