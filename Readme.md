@@ -33,7 +33,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **4**][ECFR-4]                            | -                  | [**A**][ECFR-4-A]                 | -        |
 | 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A]               | **+265** |
 | 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]                | -        |
-| 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | [**A**][ECFR-178-A], **B**, **F** | -        |
+| 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | [**A**][ECFR-178-A], **B**, **F** | **+170** |
 
 **Practice Status:**
 
