@@ -8,11 +8,11 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 18 days (**from 12 Apr 2025 to 29 Apr 2025**)
 
-**Problems Solved:** 69 (C: **24**, C++: **45**)
+**Problems Solved:** 72 (C: **24**, C++: **48**)
 
 **Contests Joined:** 3
 
-**Contest Rating (Ego):** **650** (max. newbie, **650**)
+**Contest Rating (Ego):** **820** (max. newbie, **820**)
 
 **Contest Information:**
 
@@ -34,6 +34,13 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A]               | **+265** |
 | 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]                | -        |
 | 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | [**A**][ECFR-178-A], **B**, **F** | -        |
+
+**Practice Status:**
+
+|     | Source                                    | Purpose                                     | Total Solved | Directory                       |
+| :-- | :---------------------------------------- | :------------------------------------------ | :----------- | :------------------------------ |
+| 📌  | **CodeForces**                            | To&nbsp;develop muscle memory               | **3**        | [**17-practice-bomb-1**][PB-01] |
+| 📌  | [**wrong&nbsp;submission Playlist**][WSP] | To&nbsp;discover problem-solving techniques | -            | -                               |
 
 <!-- ||||||| -->
 <!-- contest links -->
@@ -74,6 +81,11 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [AUT-S5-C]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C
 [AUT-S5-D]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D
 [AUT-S5-E]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E
+
+<!-- practice links -->
+
+[PB-01]: https://github.com/ShadowShahriar/cp200/tree/main/17-practice-bomb-1
+[WSP]: https://www.youtube.com/playlist?list=PL0G2Ga9ALv6kfWwpKT_aK2ib7RitsYjBO
 
 **NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][LICENSE] for more details.
 
