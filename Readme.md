@@ -12,7 +12,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Contests Joined:** 3
 
-**Contest Rating (Ego):** **820** (max. newbie, **820**)
+**Contest Rating (Ego):** **822** (max. newbie, **822**)
 
 **Contest Information:**
 
@@ -33,7 +33,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Educational CF Round **4**][ECFR-4]                            | -                  | [**A**][ECFR-4-A]   | -        |
 | 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A] | **+265** |
 | 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]  | -        |
-| 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | **A-B**, **F**      | **+170** |
+| 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | **A-B**, **F**      | **+172** |
 | 🐥  | [CF Round **1022** (**Div. 2**)][CFR-1022]                      | -                  | [**A**][CFR-1022-A] | -        |
 
 **Practice Status:**
