@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 1 month 6 days (**from 12 Apr 2025 to 17 May 2025**)
 
-**Problems Solved:** 92 (C: **24**, C++: **69**)
+**Problems Solved:** 93 (C: **24**, C++: **70**)
 
 **Contests Joined:** 3
 
@@ -35,6 +35,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]  | -        |
 | 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | **A-B**, **F**      | **+172** |
 | 🐥  | [CF Round **1022** (**Div. 2**)][CFR-1022]                      | -                  | [**A**][CFR-1022-A] | -        |
+| 🐥  | [CF Round **1019** (**Div. 2**)][CFR-1019]                      | -                  | [**A**][CFR-1019-A] | -        |
 
 **Practice Status:**
 
@@ -63,6 +64,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1021]: https://codeforces.com/contest/2098
 [CFR-1022]: https://codeforces.com/contest/2108
 [CFR-629]: https://codeforces.com/contest/1328
+[CFR-1019]: https://codeforces.com/contest/2103
 
 <!-- problem links -->
 
@@ -76,6 +78,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1017-A]: https://codeforces.com/contest/2094/problem/A
 [CFR-952-A]: https://codeforces.com/contest/1985/problem/A
 [CFR-1003-A]: https://codeforces.com/contest/2065/problem/A
+[CFR-1019-A]: https://codeforces.com/contest/2103/problem/A
 [CFR-1021-A]: https://codeforces.com/contest/2098/problem/A
 [CFR-1022-A]: https://codeforces.com/contest/2108/problem/A
 [CFR-629-A]: https://codeforces.com/contest/1328/problem/A
