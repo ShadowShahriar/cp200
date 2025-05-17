@@ -8,9 +8,9 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 1 month 6 days (**from 12 Apr 2025 to 17 May 2025**)
 
-**Problems Solved:** 94 (C: **24**, C++: **71**)
+**Problems Solved:** 95 (C: **24**, C++: **72**)
 
-**Contests Joined:** 3
+**Contests Joined:** 4
 
 **Contest Rating (Ego):** **822** (max. newbie, **822**)
 
@@ -31,11 +31,12 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Assiut University Training (Newcomers/**Contest 2**)][AUT-C2]  | -                  | **A-F**             | -        |
 | 🐔  | [CF Round **1020** (**Div. 3**)][CFR-1020]                      | Contestant&nbsp;⭐ | **A-B**             | **+385** |
 | 🐣  | [Educational CF Round **4**][ECFR-4]                            | -                  | [**A**][ECFR-4-A]   | -        |
-| 🐔  | [CF Round **1021** (**Div. 3**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A] | **+265** |
+| 🐔  | [CF Round **1021** (**Div. 2**)][CFR-1021]                      | Contestant&nbsp;⭐ | [**A**][CFR-1021-A] | **+265** |
 | 🐥  | [CF Round **629** (**Div. 3**)][CFR-629]                        | -                  | [**A**][CFR-629-A]  | -        |
 | 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | **A-B**, **F**      | **+172** |
 | 🐥  | [CF Round **1022** (**Div. 2**)][CFR-1022]                      | -                  | [**A**][CFR-1022-A] | -        |
 | 🐥  | [CF Round **1019** (**Div. 2**)][CFR-1019]                      | -                  | [**A**][CFR-1019-A] | -        |
+| 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                      | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | -        |
 
 **Practice Status:**
 
@@ -65,6 +66,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1022]: https://codeforces.com/contest/2108
 [CFR-629]: https://codeforces.com/contest/1328
 [CFR-1019]: https://codeforces.com/contest/2103
+[CFR-1025]: https://codeforces.com/contest/2109
 
 <!-- problem links -->
 
@@ -81,6 +83,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1019-A]: https://codeforces.com/contest/2103/problem/A
 [CFR-1021-A]: https://codeforces.com/contest/2098/problem/A
 [CFR-1022-A]: https://codeforces.com/contest/2108/problem/A
+[CFR-1025-A]: https://codeforces.com/contest/2109/problem/A
 [CFR-629-A]: https://codeforces.com/contest/1328/problem/A
 [AUT-S5-A]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A
 [AUT-S5-B]: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B
