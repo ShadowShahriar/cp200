@@ -6,13 +6,13 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 1 month 6 days (**from 12 Apr 2025 to 17 May 2025**)
+**Duration:** 1 month 8 days (**from 12 Apr 2025 to 19 May 2025**)
 
-**Problems Solved:** 95 (C: **24**, C++: **72**)
+**Problems Solved:** 99 (C: **24**, C++: **76**)
 
 **Contests Joined:** 4
 
-**Contest Rating (Ego):** **822** (max. newbie, **822**)
+**Contest Rating (Ego):** **856** (max. newbie, **856**)
 
 **Contest Information:**
 
@@ -36,14 +36,14 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐔  | [Educational CF Round **178** (Rated for **Div. 2**)][ECFR-178] | Contestant&nbsp;⭐ | **A-B**, **F**      | **+172** |
 | 🐥  | [CF Round **1022** (**Div. 2**)][CFR-1022]                      | -                  | [**A**][CFR-1022-A] | -        |
 | 🐥  | [CF Round **1019** (**Div. 2**)][CFR-1019]                      | -                  | [**A**][CFR-1019-A] | -        |
-| 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                      | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | -        |
+| 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                      | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | **+34**  |
 
 **Practice Status:**
 
-|     | Source                                    | Purpose                                     | Total Solved | Directory                       |
-| :-- | :---------------------------------------- | :------------------------------------------ | :----------- | :------------------------------ |
-| 📌  | **CodeForces**                            | To&nbsp;develop muscle memory               | **24**       | [**17-practice-bomb-1**][PB-01] |
-| 📌  | [**wrong&nbsp;submission Playlist**][WSP] | To&nbsp;discover problem-solving techniques | -            | -                               |
+|     | Source                                    | Purpose                                     | Total Solved | Directory                                                        |
+| :-- | :---------------------------------------- | :------------------------------------------ | :----------- | :--------------------------------------------------------------- |
+| 📌  | **CodeForces**                            | To&nbsp;develop muscle memory               | **28**       | [**17-practice-bomb-1**][PB-01], [**21-practice-bomb-2**][PB-02] |
+| 📌  | [**wrong&nbsp;submission Playlist**][WSP] | To&nbsp;discover problem-solving techniques | -            | -                                                                |
 
 <!-- ||||||| -->
 <!-- contest links -->
