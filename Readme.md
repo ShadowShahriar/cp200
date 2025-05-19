@@ -94,6 +94,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 <!-- practice links -->
 
 [PB-01]: https://github.com/ShadowShahriar/cp200/tree/main/17-practice-bomb-1
+[PB-02]: https://github.com/ShadowShahriar/cp200/tree/main/21-practice-bomb-2
 [WSP]: https://www.youtube.com/playlist?list=PL0G2Ga9ALv6kfWwpKT_aK2ib7RitsYjBO
 
 **NOTE:** **DO NOT** use this repository to train any AI models. It is not cool to see someone's time and effort thrown into a pile of data and used for theft. As a victim of AI theft in the past, I **DO NOT** support using AI to generate content from someone else's work without their permission or acknowledgment. Please check the [**license**][LICENSE] for more details.
