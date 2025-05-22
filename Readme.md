@@ -6,7 +6,7 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 1 month 10 days (**from 12 Apr 2025 to 21 May 2025**)
+**Duration:** 1 month 11 days (**from 12 Apr 2025 to 22 May 2025**)
 
 **Problems Solved:** 101 (C: **24**, C++: **78**)
 
