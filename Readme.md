@@ -8,7 +8,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 **Duration:** 1 month 15 days (**from 12 Apr 2025 to 27 May 2025**)
 
-**Problems Solved:** 106 (C: **24**, C++: **83**)
+**Problems Solved:** 107 (C: **24**, C++: **84**)
 
 **Contests Joined:** 5
 
@@ -37,7 +37,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐥  | [CF Round **1022** (**Div. 2**)][CFR-1022]                       | -                  | [**A**][CFR-1022-A] | -        |
 | 🐥  | [CF Round **1019** (**Div. 2**)][CFR-1019]                       | -                  | [**A**][CFR-1019-A] | -        |
 | 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                       | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | **+34**  |
-| 🐣  | [Assiut University Training (Newcomers/**Contest 3.1**)][AUT-C3] | -                  | **A-C**             | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Contest 3.1**)][AUT-C3] | -                  | **A-D**             | -        |
 | 🐔  | [CF Round **1027** (**Div. 3**)][CFR-1027]                       | Contestant&nbsp;⭐ | [**A**][CFR-1027-A] | **+33**  |
 
 **Practice Status:**
