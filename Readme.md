@@ -6,9 +6,9 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 1 month 19 days (**from 12 Apr 2025 to 31 May 2025**)
+**Duration:** 1 month 20 days (**from 12 Apr 2025 to 1 Jun 2025**)
 
-**Problems Solved:** 112 (C: **24**, C++: **89**)
+**Problems Solved:** 113 (C: **24**, C++: **90**)
 
 **Contests Joined:** 5
 
@@ -44,7 +44,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 
 |     | Source                                    | Purpose                                     | Total Solved | Directory                                                        |
 | :-- | :---------------------------------------- | :------------------------------------------ | :----------- | :--------------------------------------------------------------- |
-| 📌  | **CodeForces**                            | To&nbsp;develop muscle memory               | **32**       | [**17-practice-bomb-1**][PB-01], [**21-practice-bomb-2**][PB-02] |
+| 📌  | **CodeForces**                            | To&nbsp;develop muscle memory               | **33**       | [**17-practice-bomb-1**][PB-01], [**21-practice-bomb-2**][PB-02] |
 | 📌  | [**wrong&nbsp;submission Playlist**][WSP] | To&nbsp;discover problem-solving techniques | -            | -                                                                |
 
 <!-- ||||||| -->
