@@ -6,11 +6,11 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 1 month 26 days (**from 12 Apr 2025 to 7 Jun 2025**)
+**Duration:** 1 month 27 days (**from 12 Apr 2025 to 8 Jun 2025**)
 
-**Problems Solved:** 119 (C: **24**, C++: **96**)
+**Problems Solved:** 120 (C: **24**, C++: **97**)
 
-**Contests Joined:** 5
+**Contests Joined:** 6
 
 **Contest Rating (Ego):** **889** (max. newbie, **889**)
 
@@ -40,6 +40,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐣  | [Assiut University Training (Newcomers/**Contest 3.1**)][AUT-C3] | -                  | **A-G**             | -        |
 | 🐔  | [CF Round **1027** (**Div. 3**)][CFR-1027]                       | Contestant&nbsp;⭐ | [**A**][CFR-1027-A] | **+33**  |
 | 🐣  | [Assiut University Training (Newcomers/**Sheet 4**)][AUT-S4]     | -                  | **A-F**             | -        |
+| 🐔  | [CF Round **1029** (**Div. 3**)][CFR-1029]                       | Contestant&nbsp;⭐ | [**A**][CFR-1029-A] | -        |
 
 **Practice Status:**
 
@@ -73,6 +74,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1025]: https://codeforces.com/contest/2109
 [CFR-1027]: https://codeforces.com/contest/2114
 [AUT-C3]: https://codeforces.com/group/MWSDmqGsZm/contest/329103
+[CFR-1029]: https://codeforces.com/contest/2117
 
 <!-- problem links -->
 
