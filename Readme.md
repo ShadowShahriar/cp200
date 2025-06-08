@@ -94,6 +94,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 [CFR-1025-A]: https://codeforces.com/contest/2109/problem/A
 [CFR-1027-A]: https://codeforces.com/contest/2114/problem/A
 [CFR-629-A]: https://codeforces.com/contest/1328/problem/A
+[CFR-1029-A]: https://codeforces.com/contest/2117/problem/A
 
 <!-- practice links -->
 
