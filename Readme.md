@@ -39,7 +39,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                       | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | **+34**  |
 | 🐣  | [Assiut University Training (Newcomers/**Contest 3.1**)][AUT-C3] | -                  | **A-G**             | -        |
 | 🐔  | [CF Round **1027** (**Div. 3**)][CFR-1027]                       | Contestant&nbsp;⭐ | [**A**][CFR-1027-A] | **+33**  |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 4**)][AUT-S4]     | -                  | **A-K**             | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 4**)][AUT-S4]     | -                  | **A-L**             | -        |
 | 🐔  | [CF Round **1029** (**Div. 3**)][CFR-1029]                       | Contestant&nbsp;⭐ | [**A**][CFR-1029-A] | **-16**  |
 
 **Practice Status:**
