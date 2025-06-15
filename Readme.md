@@ -6,9 +6,9 @@ However, due to many events (some being ✨**life-changing**✨), I could not co
 
 Now that I am in the **third semester** and already **101 days** into 2025, I want to try again. Maybe, just maybe, I will get better at it.
 
-**Duration:** 2 months 3 days (**from 12 Apr 2025 to 14 Jun 2025**)
+**Duration:** 2 months 4 days (**from 12 Apr 2025 to 15 Jun 2025**)
 
-**Problems Solved:** 127 (C: **24**, C++: **103**)
+**Problems Solved:** 128 (C: **24**, C++: **104**)
 
 **Contests Joined:** 6
 
@@ -39,7 +39,7 @@ Now that I am in the **third semester** and already **101 days** into 2025, I wa
 | 🐔  | [CF Round **1025** (**Div. 2**)][CFR-1025]                       | Contestant&nbsp;⭐ | [**A**][CFR-1025-A] | **+34**  |
 | 🐣  | [Assiut University Training (Newcomers/**Contest 3.1**)][AUT-C3] | -                  | **A-G**             | -        |
 | 🐔  | [CF Round **1027** (**Div. 3**)][CFR-1027]                       | Contestant&nbsp;⭐ | [**A**][CFR-1027-A] | **+33**  |
-| 🐣  | [Assiut University Training (Newcomers/**Sheet 4**)][AUT-S4]     | -                  | **A-M**             | -        |
+| 🐣  | [Assiut University Training (Newcomers/**Sheet 4**)][AUT-S4]     | -                  | **A-M**, **Q**      | -        |
 | 🐔  | [CF Round **1029** (**Div. 3**)][CFR-1029]                       | Contestant&nbsp;⭐ | [**A**][CFR-1029-A] | **-16**  |
 
 **Practice Status:**
